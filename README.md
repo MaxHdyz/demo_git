@@ -1,6 +1,4 @@
 # demo_git
-Une demo de git qui se passe bien
+Une demo de Git pour pusher vers GitHub
 
-Et maintenant je modifie GitHub, et maintenant depuis ma machine locale.
 
-Et c'est cool
